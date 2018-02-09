@@ -11,7 +11,7 @@ This repository is for providing data used in the experiment 1 of the following 
   * ahdata.csv ... Auditory information obtained by hitting each object (m^ah).
   * hdata.csv ... Haptic information for each object (m^h).
 
-  The n-th row show BoF representation for the n-th object.
+  The n-th row shows a BoF representation for the n-th object.
 
 * ./modality-data/test/
   * object#{j}\_#{m}.csv
