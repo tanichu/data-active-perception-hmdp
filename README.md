@@ -1,4 +1,4 @@
-# data-active-perception-hmdp
+# data-active-perception-mhdp
 
 This repository is for providing data used in the experiment 1 of the following paper.
 
@@ -19,6 +19,10 @@ This repository is for providing data used in the experiment 1 of the following 
   The index #{j} represents the index of an object.
   the index #{m} represents the index of a modality.
   Each text file contains BoF obtained by each action.
+  
+  
+  
+ Note that the URL name involves typo, i.e., hmdp should be mhdp.
   
   
 
